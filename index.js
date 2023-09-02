@@ -1,4 +1,7 @@
-let dayField = document.querySelector(".day-field");
+
+
+
+    let dayField = document.querySelector(".day-field");
 let monthField = document.querySelector(".month-field");
 let yearField = document.querySelector(".year-field");
 let activationBtn = document.querySelector(".age-calculator .btn");
